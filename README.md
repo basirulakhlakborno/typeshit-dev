@@ -1,2 +1,3 @@
-# typeshit-dev
-typeshit page for @dev
+# dev
+
+Hosted from typeshit (@dev).
